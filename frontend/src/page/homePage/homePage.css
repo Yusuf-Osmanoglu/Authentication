@@ -1,0 +1,36 @@
+.navbar-nav img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.body{
+    display: flex;
+}
+
+card{
+    display: flex;
+}
+
+aside img {
+    width: 50%;
+    height: 20%;
+}
+
+.newsImg{
+    width: 75%;
+}
+
+.cardHeader{
+    display: flex;
+}
+
+.cardHeader h1{
+    margin: 5px;
+    display: flex;
+    font-size: 20px;
+}
+
+.card{
+    margin-top: 10px;
+}
